@@ -1,0 +1,1639 @@
+{
+    "ipd_anchors": [
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P000",
+            "treatment": 1,
+            "age": 61.8,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P001",
+            "treatment": 1,
+            "age": 51.2,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P002",
+            "treatment": 0,
+            "age": 44.5,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P003",
+            "treatment": 0,
+            "age": 80.3,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P004",
+            "treatment": 0,
+            "age": 62.4,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P005",
+            "treatment": 1,
+            "age": 68.9,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P006",
+            "treatment": 1,
+            "age": 48.9,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P007",
+            "treatment": 0,
+            "age": 67.1,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P008",
+            "treatment": 0,
+            "age": 26.4,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P009",
+            "treatment": 0,
+            "age": 66.0,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P010",
+            "treatment": 1,
+            "age": 63.6,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P011",
+            "treatment": 0,
+            "age": 80.0,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P012",
+            "treatment": 1,
+            "age": 67.2,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P013",
+            "treatment": 0,
+            "age": 54.2,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P014",
+            "treatment": 1,
+            "age": 55.4,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P015",
+            "treatment": 0,
+            "age": 79.0,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P016",
+            "treatment": 1,
+            "age": 55.6,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P017",
+            "treatment": 0,
+            "age": 70.2,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P018",
+            "treatment": 0,
+            "age": 74.9,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P019",
+            "treatment": 0,
+            "age": 73.0,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P020",
+            "treatment": 0,
+            "age": 58.9,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P021",
+            "treatment": 0,
+            "age": 63.3,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P022",
+            "treatment": 0,
+            "age": 60.3,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P023",
+            "treatment": 0,
+            "age": 47.4,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P024",
+            "treatment": 1,
+            "age": 59.0,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P025",
+            "treatment": 0,
+            "age": 49.3,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P026",
+            "treatment": 0,
+            "age": 56.0,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P027",
+            "treatment": 1,
+            "age": 56.5,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P028",
+            "treatment": 0,
+            "age": 67.1,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P029",
+            "treatment": 1,
+            "age": 68.7,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P030",
+            "treatment": 0,
+            "age": 67.4,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P031",
+            "treatment": 0,
+            "age": 66.5,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P032",
+            "treatment": 0,
+            "age": 65.1,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P033",
+            "treatment": 1,
+            "age": 48.2,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P034",
+            "treatment": 1,
+            "age": 60.0,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P035",
+            "treatment": 0,
+            "age": 55.6,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P036",
+            "treatment": 1,
+            "age": 48.4,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P037",
+            "treatment": 1,
+            "age": 62.6,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P038",
+            "treatment": 0,
+            "age": 63.5,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P039",
+            "treatment": 0,
+            "age": 56.0,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P040",
+            "treatment": 1,
+            "age": 66.5,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P041",
+            "treatment": 0,
+            "age": 46.0,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P042",
+            "treatment": 0,
+            "age": 61.6,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P043",
+            "treatment": 1,
+            "age": 71.6,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P044",
+            "treatment": 1,
+            "age": 67.9,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P045",
+            "treatment": 0,
+            "age": 87.5,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P046",
+            "treatment": 0,
+            "age": 69.7,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P047",
+            "treatment": 0,
+            "age": 63.2,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P048",
+            "treatment": 1,
+            "age": 73.5,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P049",
+            "treatment": 1,
+            "age": 62.0,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P050",
+            "treatment": 0,
+            "age": 67.3,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P051",
+            "treatment": 1,
+            "age": 59.3,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P052",
+            "treatment": 0,
+            "age": 56.6,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P053",
+            "treatment": 0,
+            "age": 67.9,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P054",
+            "treatment": 0,
+            "age": 40.3,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P055",
+            "treatment": 0,
+            "age": 70.9,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P056",
+            "treatment": 0,
+            "age": 55.5,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P057",
+            "treatment": 0,
+            "age": 56.3,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P058",
+            "treatment": 0,
+            "age": 30.2,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P059",
+            "treatment": 1,
+            "age": 69.4,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P060",
+            "treatment": 0,
+            "age": 70.3,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P061",
+            "treatment": 1,
+            "age": 59.4,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P062",
+            "treatment": 0,
+            "age": 50.1,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P063",
+            "treatment": 1,
+            "age": 37.2,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P064",
+            "treatment": 0,
+            "age": 79.5,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P065",
+            "treatment": 0,
+            "age": 49.7,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P066",
+            "treatment": 1,
+            "age": 58.7,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P067",
+            "treatment": 1,
+            "age": 51.0,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P068",
+            "treatment": 1,
+            "age": 64.7,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P069",
+            "treatment": 0,
+            "age": 38.1,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P070",
+            "treatment": 0,
+            "age": 43.1,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P071",
+            "treatment": 1,
+            "age": 60.6,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P072",
+            "treatment": 1,
+            "age": 47.2,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P073",
+            "treatment": 0,
+            "age": 59.1,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P074",
+            "treatment": 0,
+            "age": 28.5,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P075",
+            "treatment": 1,
+            "age": 56.7,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P076",
+            "treatment": 1,
+            "age": 60.7,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P077",
+            "treatment": 1,
+            "age": 66.4,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P078",
+            "treatment": 0,
+            "age": 56.3,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P079",
+            "treatment": 0,
+            "age": 67.7,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P080",
+            "treatment": 1,
+            "age": 57.5,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P081",
+            "treatment": 0,
+            "age": 65.6,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P082",
+            "treatment": 0,
+            "age": 62.7,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P083",
+            "treatment": 0,
+            "age": 40.5,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P084",
+            "treatment": 1,
+            "age": 61.1,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P085",
+            "treatment": 1,
+            "age": 58.8,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P086",
+            "treatment": 0,
+            "age": 59.5,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P087",
+            "treatment": 1,
+            "age": 67.9,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P088",
+            "treatment": 0,
+            "age": 77.5,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P089",
+            "treatment": 0,
+            "age": 57.0,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P090",
+            "treatment": 0,
+            "age": 66.2,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P091",
+            "treatment": 1,
+            "age": 45.2,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P092",
+            "treatment": 1,
+            "age": 76.0,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P093",
+            "treatment": 0,
+            "age": 53.9,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P094",
+            "treatment": 1,
+            "age": 58.2,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P095",
+            "treatment": 1,
+            "age": 59.6,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P096",
+            "treatment": 0,
+            "age": 57.6,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P097",
+            "treatment": 1,
+            "age": 60.7,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P098",
+            "treatment": 0,
+            "age": 65.6,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0111",
+            "patient_id": "P099",
+            "treatment": 1,
+            "age": 65.1,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P000",
+            "treatment": 1,
+            "age": 65.2,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P001",
+            "treatment": 1,
+            "age": 52.9,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P002",
+            "treatment": 0,
+            "age": 53.8,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P003",
+            "treatment": 1,
+            "age": 49.0,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P004",
+            "treatment": 0,
+            "age": 56.8,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P005",
+            "treatment": 1,
+            "age": 64.6,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P006",
+            "treatment": 0,
+            "age": 55.9,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P007",
+            "treatment": 1,
+            "age": 45.9,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P008",
+            "treatment": 0,
+            "age": 62.3,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P009",
+            "treatment": 1,
+            "age": 55.3,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P010",
+            "treatment": 1,
+            "age": 57.4,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P011",
+            "treatment": 1,
+            "age": 45.2,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P012",
+            "treatment": 1,
+            "age": 55.8,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P013",
+            "treatment": 1,
+            "age": 71.0,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P014",
+            "treatment": 1,
+            "age": 62.2,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P015",
+            "treatment": 0,
+            "age": 53.0,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P016",
+            "treatment": 0,
+            "age": 77.5,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P017",
+            "treatment": 0,
+            "age": 54.6,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P018",
+            "treatment": 1,
+            "age": 54.2,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P019",
+            "treatment": 0,
+            "age": 51.6,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P020",
+            "treatment": 1,
+            "age": 59.3,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P021",
+            "treatment": 1,
+            "age": 74.5,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P022",
+            "treatment": 0,
+            "age": 57.1,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P023",
+            "treatment": 1,
+            "age": 68.3,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P024",
+            "treatment": 0,
+            "age": 68.9,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P025",
+            "treatment": 0,
+            "age": 63.0,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P026",
+            "treatment": 0,
+            "age": 63.0,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P027",
+            "treatment": 0,
+            "age": 46.6,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P028",
+            "treatment": 0,
+            "age": 62.6,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P029",
+            "treatment": 0,
+            "age": 48.6,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P030",
+            "treatment": 1,
+            "age": 40.4,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P031",
+            "treatment": 1,
+            "age": 61.6,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P032",
+            "treatment": 0,
+            "age": 73.6,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P033",
+            "treatment": 0,
+            "age": 70.7,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P034",
+            "treatment": 1,
+            "age": 57.6,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P035",
+            "treatment": 0,
+            "age": 65.1,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P036",
+            "treatment": 0,
+            "age": 43.3,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P037",
+            "treatment": 1,
+            "age": 79.9,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P038",
+            "treatment": 0,
+            "age": 59.6,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P039",
+            "treatment": 0,
+            "age": 60.3,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P040",
+            "treatment": 0,
+            "age": 57.7,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P041",
+            "treatment": 0,
+            "age": 55.5,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P042",
+            "treatment": 1,
+            "age": 47.4,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P043",
+            "treatment": 0,
+            "age": 43.7,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P044",
+            "treatment": 1,
+            "age": 59.3,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P045",
+            "treatment": 0,
+            "age": 52.7,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P046",
+            "treatment": 1,
+            "age": 57.3,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P047",
+            "treatment": 0,
+            "age": 67.0,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P048",
+            "treatment": 1,
+            "age": 65.3,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P049",
+            "treatment": 1,
+            "age": 49.8,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P050",
+            "treatment": 0,
+            "age": 74.6,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P051",
+            "treatment": 0,
+            "age": 63.2,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P052",
+            "treatment": 0,
+            "age": 62.1,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P053",
+            "treatment": 0,
+            "age": 69.9,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P054",
+            "treatment": 0,
+            "age": 48.1,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P055",
+            "treatment": 1,
+            "age": 71.9,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P056",
+            "treatment": 0,
+            "age": 53.7,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P057",
+            "treatment": 0,
+            "age": 50.1,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P058",
+            "treatment": 1,
+            "age": 60.1,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P059",
+            "treatment": 0,
+            "age": 44.4,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P060",
+            "treatment": 0,
+            "age": 55.3,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P061",
+            "treatment": 0,
+            "age": 74.2,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P062",
+            "treatment": 0,
+            "age": 57.8,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P063",
+            "treatment": 0,
+            "age": 82.8,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P064",
+            "treatment": 1,
+            "age": 67.4,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P065",
+            "treatment": 1,
+            "age": 65.4,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P066",
+            "treatment": 1,
+            "age": 72.9,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P067",
+            "treatment": 1,
+            "age": 54.8,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P068",
+            "treatment": 0,
+            "age": 52.1,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P069",
+            "treatment": 0,
+            "age": 66.2,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P070",
+            "treatment": 0,
+            "age": 79.3,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P071",
+            "treatment": 1,
+            "age": 53.3,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P072",
+            "treatment": 0,
+            "age": 49.6,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P073",
+            "treatment": 1,
+            "age": 51.2,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P074",
+            "treatment": 1,
+            "age": 72.5,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P075",
+            "treatment": 0,
+            "age": 49.6,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P076",
+            "treatment": 1,
+            "age": 50.9,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P077",
+            "treatment": 1,
+            "age": 58.4,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P078",
+            "treatment": 1,
+            "age": 65.6,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P079",
+            "treatment": 1,
+            "age": 69.7,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P080",
+            "treatment": 1,
+            "age": 51.6,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P081",
+            "treatment": 1,
+            "age": 44.8,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P082",
+            "treatment": 1,
+            "age": 60.8,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P083",
+            "treatment": 0,
+            "age": 54.4,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P084",
+            "treatment": 0,
+            "age": 69.6,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P085",
+            "treatment": 1,
+            "age": 63.6,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P086",
+            "treatment": 1,
+            "age": 69.7,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P087",
+            "treatment": 0,
+            "age": 63.0,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P088",
+            "treatment": 1,
+            "age": 59.6,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P089",
+            "treatment": 1,
+            "age": 73.8,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P090",
+            "treatment": 1,
+            "age": 50.7,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P091",
+            "treatment": 1,
+            "age": 42.5,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P092",
+            "treatment": 1,
+            "age": 59.1,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P093",
+            "treatment": 0,
+            "age": 55.8,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P094",
+            "treatment": 1,
+            "age": 67.3,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P095",
+            "treatment": 0,
+            "age": 71.9,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P096",
+            "treatment": 0,
+            "age": 47.3,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P097",
+            "treatment": 0,
+            "age": 38.7,
+            "outcome": 0,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P098",
+            "treatment": 0,
+            "age": 52.2,
+            "outcome": 1,
+            "quality": 1.0
+        },
+        {
+            "study_id": "NCT0222",
+            "patient_id": "P099",
+            "treatment": 0,
+            "age": 51.5,
+            "outcome": 1,
+            "quality": 1.0
+        }
+    ],
+    "aggregate_ihme": [
+        {
+            "location": "USA",
+            "events": 12000,
+            "n": 100000,
+            "age_mean": 64,
+            "exposure": 0.35,
+            "quality": 0.7
+        },
+        {
+            "location": "IND",
+            "events": 18000,
+            "n": 200000,
+            "age_mean": 55,
+            "exposure": 0.08,
+            "quality": 0.6
+        },
+        {
+            "location": "CHN",
+            "events": 15000,
+            "n": 150000,
+            "age_mean": 60,
+            "exposure": 0.12,
+            "quality": 0.65
+        },
+        {
+            "location": "NGA",
+            "events": 9000,
+            "n": 50000,
+            "age_mean": 52,
+            "exposure": 0.02,
+            "quality": 0.5
+        }
+    ],
+    "efficiency_are": 0.985
+}

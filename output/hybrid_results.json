@@ -1,0 +1,15 @@
+{
+    "model": "Hybrid-IRM-NOT-v1.0",
+    "description": "2026 Invariant Causal Meta-Analysis with Neural OT Alignment",
+    "estimands": {
+        "invariant_estimate_or": 0.384,
+        "ci_low": 0.3309,
+        "ci_high": 0.4663,
+        "stability_metric": 0.726
+    },
+    "theoretical_efficiency": 0.985,
+    "truthcert": {
+        "input_hash": "cac5b62795837c5bf1d79a76ac74ab6e2048f50197e7cf1d295b58a9071bbecd",
+        "timestamp": "2026-04-08"
+    }
+}
