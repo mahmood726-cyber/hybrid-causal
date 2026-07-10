@@ -1,7 +1,12 @@
 import json
 import os
+from pathlib import Path
 import pandas as pd
 import numpy as np
+
+# Anchor paths to the repository root (parent of src/), not the current
+# working directory, so ingestion writes to the repo's data/ from anywhere.
+ROOT = Path(__file__).resolve().parents[1]
 
 def fetch_hybrid_ipd_anchors():
     """
@@ -48,7 +53,7 @@ def main():
         "efficiency_are": 0.985 # Biometrika 2026 theoretical efficiency bound
     }
     
-    output_path = "hybrid-causal/data/hybrid_synthesis_input.json"
+    output_path = ROOT / "data" / "hybrid_synthesis_input.json"
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
     with open(output_path, 'w') as f:
         json.dump(data, f, indent=4)

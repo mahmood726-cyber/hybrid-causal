@@ -20,8 +20,11 @@ def test_release_contract_files_exist():
 def test_dashboard_is_offline_first():
     html = (PROJECT_ROOT / "docs" / "index.html").read_text(encoding="utf-8")
     assert not any(marker in html for marker in OFFLINE_MARKERS)
-    assert "../vendor/chart.umd.min.js" in html
-    assert (PROJECT_ROOT / "vendor" / "chart.umd.min.js").exists()
+    # Reference must stay within the docs/ subtree so GitHub Pages (served
+    # from /docs) can resolve it without escaping the published root.
+    assert "vendor/chart.umd.min.js" in html
+    assert "../vendor/chart.umd.min.js" not in html
+    assert (PROJECT_ROOT / "docs" / "vendor" / "chart.umd.min.js").exists()
 
 
 def test_protocol_has_dashboard_reference():

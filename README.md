@@ -12,6 +12,16 @@ This repository implements the absolute frontier of evidence synthesis (2025/202
 - **Goal:** Robust, invariant causal inference for global health policy that remains stable across heterogeneous population subsets.
 - **E156 Micro-Paper:** Includes a 7-sentence summary of findings with **TruthCert** proof-carrying numbers.
 
+## Installation & Run
+```bash
+pip install -r requirements.txt   # pinned numpy/pandas/scipy/pymc/arviz/pytest
+python src/ingest_data.py         # writes data/hybrid_synthesis_input.json
+python src/model_hybrid.py        # writes output/hybrid_results.json
+python -m pytest -q               # run the test suite
+```
+All paths are anchored to the repository root, so the scripts run correctly
+from any working directory.
+
 ## Structure
 - `src/`: Python implementation of IRM, NOT alignment, and Bayesian synthesis.
 - `data/`: Ingested (Open Access) IPD and AD data fixtures.

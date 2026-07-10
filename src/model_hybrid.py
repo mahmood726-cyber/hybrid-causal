@@ -1,11 +1,16 @@
 import json
 import os
 import hashlib
+from pathlib import Path
 import numpy as np
 import pandas as pd
 import pymc as pm
 import arviz as az
 from scipy.stats import wasserstein_distance
+
+# Anchor paths to the repository root (parent of src/), not the current
+# working directory. This lets the script run correctly from anywhere.
+ROOT = Path(__file__).resolve().parents[1]
 
 def generate_truthcert_hash(data):
     """
@@ -29,6 +34,26 @@ def apply_neural_ot_alignment(ipd_df, ad_df):
         alignment_scores.append(weight)
     return np.array(alignment_scores)
 
+def compute_ad_log_odds(ad_df):
+    """
+    Aggregate-data log-odds transform: log(events / (n - events)).
+
+    Guards against the zero-cell / full-cell edge cases that would otherwise
+    produce log(0) = -inf or a divide-by-zero = +inf and silently poison the
+    downstream MCMC with NaN/inf. Raises a clear error instead of returning
+    non-finite values.
+    """
+    events = np.asarray(ad_df['events'].values, dtype=float)
+    n = np.asarray(ad_df['n'].values, dtype=float)
+    if events.size == 0:
+        raise ValueError("Aggregate data is empty; no rows to transform.")
+    if np.any(events <= 0) or np.any(events >= n):
+        raise ValueError(
+            "Aggregate 'events' must satisfy 0 < events < n for the log-odds "
+            f"transform; got events={events.tolist()}, n={n.tolist()}."
+        )
+    return np.log(events / (n - events))
+
 def run_invariant_risk_minimization(ipd_df, ad_df, alignment_weights):
     """
     Simplified Invariant Risk Minimization (IRM) for Meta-Analysis.
@@ -38,9 +63,9 @@ def run_invariant_risk_minimization(ipd_df, ad_df, alignment_weights):
     y_ipd = ipd_df['outcome'].values
     x_ipd = ipd_df['treatment'].values
     age_ipd = ipd_df['age'].values
-    
+
     # AD Data (simulated aggregate log-odds)
-    y_ad = np.log(ad_df['events'].values / (ad_df['n'].values - ad_df['events'].values))
+    y_ad = compute_ad_log_odds(ad_df)
     x_ad = ad_df['exposure'].values
     
     with pm.Model() as model:
@@ -73,11 +98,12 @@ def run_invariant_risk_minimization(ipd_df, ad_df, alignment_weights):
     }
 
 def main():
-    input_path = "hybrid-causal/data/hybrid_synthesis_input.json"
+    input_path = ROOT / "data" / "hybrid_synthesis_input.json"
     if not os.path.exists(input_path):
-        print(f"Input file not found: {input_path}")
-        return
-        
+        raise FileNotFoundError(
+            f"Input file not found: {input_path}. Run src/ingest_data.py first."
+        )
+
     with open(input_path, 'r') as f:
         input_data = json.load(f)
     
@@ -102,7 +128,7 @@ def main():
         }
     }
     
-    output_path = "hybrid-causal/output/hybrid_results.json"
+    output_path = ROOT / "output" / "hybrid_results.json"
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
     with open(output_path, 'w') as f:
         json.dump(output, f, indent=4)

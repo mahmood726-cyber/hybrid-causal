@@ -1,0 +1,9 @@
+# Pinned to the versions this pipeline was developed and tested against.
+# pymc/arviz are large, version-sensitive deps; pins keep the certified
+# numbers reproducible on a fresh clone.
+numpy==2.4.6
+pandas==2.3.3
+scipy==1.17.1
+pymc==6.0.1
+arviz==1.1.0
+pytest==9.0.3
